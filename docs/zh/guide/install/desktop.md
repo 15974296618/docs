@@ -30,6 +30,23 @@ import Desktop from "@Desktop";
 
 
 
+## **硬盘挂载教程**
+
+AList Desktop 可以将 AList 中的目录挂载到本地系统，像普通磁盘或文件夹一样在资源管理器中访问。
+
+- [**Windows 挂载硬盘操作教程**](desktop-windows-mount.md)：安装 WinFsp、创建挂载任务，并配置本机存储。
+- [**macOS 挂载卷操作教程**](desktop-macos-mount.md)：安装 macFUSE、创建挂载任务，并在 Finder 中访问。
+
+::: tip
+
+“AList Desktop 挂载”和“AList 后台添加本机存储”是两个不同方向的操作，请根据教程中的数据方向选择需要的配置。
+
+:::
+
+<br/>
+
+
+
 ## **查看激活 Key**
 
 购买渠道查看方式如下
@@ -66,4 +83,3 @@ import Desktop from "@Desktop";
 ![](/img/desktop/mianbaoduo.png)
 
 :::
-
